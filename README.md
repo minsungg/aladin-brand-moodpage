@@ -8,10 +8,6 @@
 - CSS
 - Vanilla JavaScript
 
-별도의 로컬 개발 환경이나 패키지 설치 없이 GitHub에서 바로 수정할 수 있는 정적 웹사이트입니다.
+별도의 로컬 개발 환경이나 패키지 설치 없이 GitHub에서 바로 수정할 수 있는 static page입니다.
 
-## Deployment
-
-`main` 브랜치에 변경 사항을 push하면 GitHub Actions가 GitHub Pages로 자동 배포합니다.
-
-최초 배포 후 저장소의 **Settings → Pages → Build and deployment → Source**가 **GitHub Actions**로 설정되어 있는지 확인하세요.
+해당 페이지는 ChatGPT MCP 연결해서 생성되었으며 Git에서 자동 배포됩니다.
